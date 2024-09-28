@@ -2,8 +2,6 @@
 
 REST API with all basic features real Instagram has.
 
-Take a look at the [frontend](https://github.com/konradgalczynski07/react-instagram) for this project as well.
-
 ## Features:
 
 -   registering and logging to user account
@@ -40,13 +38,3 @@ Take a look at the [frontend](https://github.com/konradgalczynski07/react-instag
 ## Instalation
 1. Clone Git repository
 2. Run `docker-compose up`
-
-
-
-Sample response
-
-![screen1](./screenshots/instaRESTAPI.png)
-
-Frontend feed page
-
-![screen2](./screenshots/instaReact.png)
